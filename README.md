@@ -1,40 +1,38 @@
-# 👋 ¡Hola! Soy [Gilberto Gaytan]
+# 👋 Hi!, I'm [Gilberto Gaytan]
 
-Bienvenido/a a mi portafolio en GitHub. Aquí encontrarás una selección organizada de proyectos en los que he trabajado, agrupados en tres áreas principales:
+Welcome to my portfolio on GitHub. Here you will find an organized selection of projects that I have worked on, grouped into three main areas:
 
 ---
 
-## 🧑‍💻 Desarrollo de Software
+## 🧑‍💻 Software Development
 
-Proyectos orientados al desarrollo de aplicaciones web, automatizaciones y scripts.
+Projects related to web app development, automation, and scripts.
 
-| Proyecto | Descripción | Tecnologías |
+| Project | Description | Technologies |
 |----------|-------------|-------------|
-| [sw-todo-list-app-flask](https://github.com/ggaytan27/sw-todo-list-app-flask) | App para gestión de actividades por hacer con Flask. | Flask, SQLite, Bootstrap |
+| [sw-todo-list-app-flask](https://github.com/ggaytan27/sw-todo-list-app-flask) | App to manage a to-do list of activities. | Flask, SQLite, Bootstrap |
 
 ---
 
-## 📊 Ciencia de Datos / Análisis
+## 📊 Data Science / Analytics
 
-Proyectos de análisis exploratorio, machine learning y visualización de datos.
+Projects for exploratory analysis, machine learning, and data visualization
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-
-
----
-
-## 🏗️ Ingeniería de Datos
-
-Proyectos de procesamiento, automatización y pipelines de datos.
-
-| Proyecto | Descripción | Tecnologías |
+| Project | Description | Technologies |
 |----------|-------------|-------------|
 
+---
+
+## 🏗️ Data Engineering
+
+Projects involving data processing, automation, and pipelines
+
+| Project | Description | Technologies |
+|----------|-------------|-------------|
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 - 📧 Email: ggaytan_itcj@hotmail.com  
 - 💼 LinkedIn: [ng-gilberto-gaytan/](https://www.linkedin.com/in/ing-gilberto-gaytan/)  
