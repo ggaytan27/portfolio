@@ -11,6 +11,7 @@ Projects related to web app development, automation, and scripts.
 | Project | Description | Technologies |
 |----------|-------------|-------------|
 | [sw-todo-list-app-flask](https://github.com/ggaytan27/sw-todo-list-app-flask) | App to manage a to-do list of activities. | Flask, SQLite, Bootstrap |
+| [sw-freelance-site]([https://github.com/ggaytan27/sw-freelance-site)) | Webpage to offer freelance services. | HTML, CSS |
 
 ---
 
