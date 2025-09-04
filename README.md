@@ -31,7 +31,7 @@ Projects involving data processing, automation, and pipelines
 
 | Project | Description | Technologies |
 |----------|-------------|-------------|
-| [de-weather-forecast]([https://github.com/ggaytan27/de-weather-forecast) | Automation to send a weather forecast.. | Python, pandas, numpy, twilio |
+| [de-weather-forecast](https://github.com/ggaytan27/de-weather-forecast) | Automation to send a weather forecast.. | Python, pandas, numpy, twilio |
 | [de-crypto-dollar-exchange](https://github.com/ggaytan27/de-crypto-dollar-exchange) | Automation to send the current exchange rate (peso - dollar) | Python, pandas, numpy, twilio |
 
 
